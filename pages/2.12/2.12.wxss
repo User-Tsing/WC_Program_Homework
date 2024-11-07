@@ -1,0 +1,4 @@
+/* pages/2.12/2.12.wxss */
+button{
+    margin-top: 20px;
+}

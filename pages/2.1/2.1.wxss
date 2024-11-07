@@ -1,0 +1,7 @@
+/* pages/2.1/2.1.wxss */
+.fontStyle{
+    font-family: Cursive;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+  }
